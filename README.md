@@ -1,2 +1,2 @@
 # JenkinsSyncTestA
-for testing sync two repository using jenkins
+for testing sync two repository using jenkins - A
